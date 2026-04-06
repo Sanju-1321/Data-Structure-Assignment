@@ -33,6 +33,6 @@ Files Included
 
 * `1.c` → Main program file
 
- 👨‍💻 Author
+  Author
 
 Sanjay shekar.V
